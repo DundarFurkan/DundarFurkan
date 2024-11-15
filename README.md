@@ -5,11 +5,17 @@ Hello, I am a Full Stack Software developer and my passion for technology allows
 
 ## 🛠️ Skills
 •⁠  ⁠*Programming Languages*: C#, JavaScript, TypeScript
+
 •⁠  ⁠*Frameworks & Libraries*: .NET, React, jQuery, Ajax
+
 •⁠  ⁠*Web Technologies*: HTML, CSS, Bootstrap, UIKit
+
 •⁠  ⁠Database & Caching**: PostgreSQL, MySQL, MS-SQL, Redis
+
 •⁠  ⁠*DevOps & Cloud*: Docker, Azure, AWS
+
 •⁠  ⁠*Version Control*: Git, Jenkins
+
 •⁠  ⁠*Project Management*: Jira, Agile Methodology, Sprint & Scrum
 
 ## Contact 
