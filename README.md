@@ -6,11 +6,11 @@ Hello, I am a Full Stack Software developer and my passion for technology allows
 ## 🛠️ Skills
 •⁠  ⁠*Programming Languages*: C#, JavaScript, TypeScript
 
-•⁠  ⁠*Frameworks & Libraries*: .NET, React, jQuery, Ajax
+•⁠  ⁠*Frameworks & Libraries*: .NET, jQuery, Ajax
 
 •⁠  ⁠*Web Technologies*: HTML, CSS, Bootstrap, UIKit
 
-•⁠  ⁠Database & Caching**: PostgreSQL, MySQL, MS-SQL, Redis
+•⁠  ⁠Database & Caching**: MySQL, MS-SQL, Redis
 
 •⁠  ⁠*DevOps & Cloud*: Docker, Azure, AWS
 
@@ -20,7 +20,7 @@ Hello, I am a Full Stack Software developer and my passion for technology allows
 
 ## Contact 
 •⁠  ⁠LinkedIn: [Furkan Dundar](https://www.linkedin.com/in/dundarfurkan/)
-•⁠  ⁠Email: furkan.dundar@aogen.com.au
+•⁠  ⁠Email: furkan.dundar@hotmail.com
   
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,html,css,bootstrap,jquery,postgres,mysql,mssql,redis,docker,azure,aws,git,jenkins,jira)](https://skillicons.dev)
