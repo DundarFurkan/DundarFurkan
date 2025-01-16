@@ -1,16 +1,26 @@
-## Hi there 👋
+# Welcome to my GitHub Page 👨‍💻
 
-<!--
-**DundarFurkan/DundarFurkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 About Me
+Hello, I am a Full Stack Software developer and my passion for technology allows me to develop creative and impressive digital solutions. I am focused on building dynamic and innovative applications by taking important roles in large projects.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+•⁠  ⁠*Programming Languages*: C#, JavaScript, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•⁠  ⁠*Frameworks & Libraries*: .NET, jQuery, Ajax, React.js
+
+•⁠  ⁠*Web Technologies*: HTML, CSS, Bootstrap, UIKit
+
+•⁠  ⁠Database & Caching**: MySQL, MS-SQL
+
+•⁠  ⁠*DevOps & Cloud*: Docker, Azure, AWS
+
+•⁠  ⁠*Version Control*: Git, Jenkins
+
+•⁠  ⁠*Project Management*: Jira, Agile Methodology, Sprint & Scrum
+
+## Contact 
+•⁠  ⁠LinkedIn: [Furkan Dundar](https://www.linkedin.com/in/dundarfurkan/)
+•⁠  ⁠Email: furkandundar71@hotmail.com
+  
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,html,css,bootstrap,jquery,postgres,mysql,mssql,redis,docker,azure,aws,git,jenkins,jira)](https://skillicons.dev)
