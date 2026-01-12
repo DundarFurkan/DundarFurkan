@@ -20,7 +20,7 @@ Hello, I am a Full Stack Software developer and my passion for technology allows
 
 ## Contact 
 •⁠  ⁠LinkedIn: [Furkan Dundar](https://www.linkedin.com/in/dundarfurkan/)
-•⁠  ⁠Email: furkandundar71@hotmail.com
+•⁠  ⁠Email: furkan.dundar@aogen.com.au
   
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,html,css,bootstrap,jquery,postgres,mysql,mssql,redis,docker,azure,aws,git,jenkins,jira)](https://skillicons.dev)
